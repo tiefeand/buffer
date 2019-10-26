@@ -3,11 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29418.71
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EmxArray", "EmxArray\EmxArray.vcxproj", "{ACA874C6-EB9E-4AC8-A5F3-B0D826021404}"
-	ProjectSection(ProjectDependencies) = postProject
-		{77F3EF45-85BC-4BAE-94AF-48DC088FFAD4} = {77F3EF45-85BC-4BAE-94AF-48DC088FFAD4}
-	EndProjectSection
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Buffer", "Buffer\Buffer.vcxproj", "{77F3EF45-85BC-4BAE-94AF-48DC088FFAD4}"
 EndProject
 Global
@@ -18,14 +13,6 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{ACA874C6-EB9E-4AC8-A5F3-B0D826021404}.Debug|x64.ActiveCfg = Debug|x64
-		{ACA874C6-EB9E-4AC8-A5F3-B0D826021404}.Debug|x64.Build.0 = Debug|x64
-		{ACA874C6-EB9E-4AC8-A5F3-B0D826021404}.Debug|x86.ActiveCfg = Debug|Win32
-		{ACA874C6-EB9E-4AC8-A5F3-B0D826021404}.Debug|x86.Build.0 = Debug|Win32
-		{ACA874C6-EB9E-4AC8-A5F3-B0D826021404}.Release|x64.ActiveCfg = Release|x64
-		{ACA874C6-EB9E-4AC8-A5F3-B0D826021404}.Release|x64.Build.0 = Release|x64
-		{ACA874C6-EB9E-4AC8-A5F3-B0D826021404}.Release|x86.ActiveCfg = Release|Win32
-		{ACA874C6-EB9E-4AC8-A5F3-B0D826021404}.Release|x86.Build.0 = Release|Win32
 		{77F3EF45-85BC-4BAE-94AF-48DC088FFAD4}.Debug|x64.ActiveCfg = Debug|x64
 		{77F3EF45-85BC-4BAE-94AF-48DC088FFAD4}.Debug|x64.Build.0 = Debug|x64
 		{77F3EF45-85BC-4BAE-94AF-48DC088FFAD4}.Debug|x86.ActiveCfg = Debug|Win32
